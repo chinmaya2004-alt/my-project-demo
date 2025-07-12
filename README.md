@@ -1,3 +1,3 @@
 # my-project-demo
-This is my firrst Git Repository
+This is my first Git Repository.
 Author-Chinmaya Biswal
